@@ -3,3 +3,4 @@
 "https://uw.service-now.com/nav_to.douri=%2F$pa_dashboard.do%3Fsysparm_dashboard%3Dc931ab1adbb2b744d6a77a8eaf96197a%26sysparm_tab%3D5c616f5adbb2b744d6a77a8eaf9619d5%26sysparm_cancelable%3Dtrue%26sysparm_editable%3Dfalse%26sysparm_active_panel%3Dfalse", 30
 "https://www-sw.cac.washington.edu/Orion/SummaryView.aspx?ViewID=262", 30
 "https://outagemap.myavista.com/external/default.html", 30
+"www.google.com", 15
